@@ -1,0 +1,25 @@
+{
+  "name": "HidMixer-HidEngine",
+  "dependencies": [
+    {
+      "name": "HidMixer-HidReporter",
+      "version": "symlink://HidMixer/HidReporter"
+    },
+    {
+      "name": "HidMixer-Set",
+      "version": "symlink://HidMixer/Set"
+    },
+    {
+      "name": "ETL Embedded Template Library",
+      "version": "symlink://HidMixer/deps/etl"
+    },
+    {
+      "name": "consthash",
+      "version": "symlink://HidMixer/deps/consthash"
+    },
+    {
+      "name": "gsl-lite",
+      "version": "symlink://HidMixer/deps/gsl-lite"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "HidMixer-BleAction",
+  "frameworks": "arduino",
+  "platforms": "nordicnrf52",
+  "dependencies": [
+    {
+      "name": "HidMixer-HidEngine",
+      "version": "symlink://HidMixer/HidEngine"
+    },
+    {
+      "name": "HidMixer-BluefruitConnectionManager",
+      "version": "symlink://HidMixer/BluefruitConnectionManager"
+    },
+    {
+      "name": "consthash",
+      "version": "symlink://HidMixer/deps/consthash"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "HidMixer-BluefruitConnectionManager",
+  "frameworks": "arduino",
+  "platforms": "nordicnrf52",
+  "dependencies": [
+    {
+      "name": "HidMixer-MemStore",
+      "version": "symlink://HidMixer/MemStore"
+    }
+  ]
+}
