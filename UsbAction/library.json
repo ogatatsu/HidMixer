@@ -1,0 +1,14 @@
+{
+  "name": "HidMixer-UsbAction",
+  "frameworks": "arduino",
+  "dependencies": [
+    {
+      "name": "HidMixer-HidEngine",
+      "version": "symlink://HidMixer/HidEngine"
+    },
+    {
+      "name": "consthash",
+      "version": "symlink://HidMixer/deps/consthash"
+    }
+  ]
+}

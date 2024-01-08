@@ -1,0 +1,9 @@
+[submodule "consthash"]
+	path = deps/consthash
+	url = https://github.com/ogatatsu/consthash.git
+[submodule "gsl-lite"]
+	path = deps/gsl-lite
+	url = https://github.com/gsl-lite/gsl-lite.git
+[submodule "etl"]
+	path = deps/etl
+	url = https://github.com/ETLCPP/etl.git

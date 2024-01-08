@@ -1,0 +1,10 @@
+{
+  "name": "HidMixer-TinyUsbHidReporter",
+  "frameworks": "arduino",
+  "dependencies": [
+    {
+      "name": "HidMixer-HidReporter",
+      "version": "symlink://HidMixer/HidReporter"
+    }
+  ]
+}
